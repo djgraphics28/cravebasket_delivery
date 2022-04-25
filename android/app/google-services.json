@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "317984307764",
+    "project_id": "cravebasket-6af7c",
+    "storage_bucket": "cravebasket-6af7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317984307764:android:38cc1f770e97a097452861",
+        "android_client_info": {
+          "package_name": "com.cravebasket.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317984307764-398c5i5j4uo2mo0tiv6geo0dkkuev7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV10unZi-gAyy5FoWWq7ZevCF6sSQsSAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317984307764-398c5i5j4uo2mo0tiv6geo0dkkuev7l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317984307764:android:4609e00aab7a83cc452861",
+        "android_client_info": {
+          "package_name": "com.cravebasket.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317984307764-398c5i5j4uo2mo0tiv6geo0dkkuev7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV10unZi-gAyy5FoWWq7ZevCF6sSQsSAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317984307764-398c5i5j4uo2mo0tiv6geo0dkkuev7l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
